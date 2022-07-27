@@ -24,3 +24,5 @@ mutable_binary-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+**/*.so
